@@ -39,17 +39,30 @@ Table of Ride-Sharing Data based on City Type
 - Average fare per ride: $34.62
 - Average fare per driver: $55.49
 
-Percent of Fares by City Type
+Percent of Total Drivers by City Type
 
-![Percent of Fares by City Type](https://github.com/Lindsey-Maag/Pyber_Analysis/blob/main/Analysis/Fig5.png)
+![Percent of Total Drivers by City Type](https://github.com/Lindsey-Maag/Pyber_Analysis/blob/main/Analysis/Fig7.png)
+
+- Percent of urban drivers: 80.9%
+- Percent of suburban drivers: 16.5%
+- Percent of rural drivers: 2.6%
 
 Percent of Total Rides by City Type
 
 ![Percent of Total Rides by City Type](https://github.com/Lindsey-Maag/Pyber_Analysis/blob/main/Analysis/Fig6.png)
 
-Percent of Total Drivers by City Type
+- Percent of urban rides: 68.4%
+- Percent of suburban rides: 26.3%
+- Percent of rural rides: 5.3%
 
-![Percent of Total Drivers by City Type](https://github.com/Lindsey-Maag/Pyber_Analysis/blob/main/Analysis/Fig7.png)
+Percent of Fares by City Type
+
+![Percent of Fares by City Type](https://github.com/Lindsey-Maag/Pyber_Analysis/blob/main/Analysis/Fig5.png)
+
+- Percent of urban fare: 62.7%
+- Percent of suburban fares: 30.5%
+- Percent of rural fares: 6.8%
+
 
 Graph of Total Weekly Fares based on City Type
 

@@ -1,7 +1,7 @@
 # Pyber Ride-Sharing Analysis
 
 ## Overview
-The purpose of this analysis is twofold. First, to create a table of Pyber's ride-sharing data summarizing total rides, drivers and fares based on city type. Second, to create a graph shoing the total weekly fares for each city type.
+The purpose of this analysis is twofold. First, to create a table of Pyber's ride-sharing data summarizing total rides, drivers and fares based on city type. Second, to create a graph showing the total weekly fares for each city type.
 
 ## Results
 
@@ -68,5 +68,10 @@ Graph of Total Weekly Fares based on City Type
 
 ![Fare Summary](https://github.com/Lindsey-Maag/Pyber_Analysis/blob/main/Analysis/Pyber_Fare_Summary.png)
 
+Urban weekly fares stay between $1500 and $2500.
+Suburban weekly fares stay between $500 and $1500.
+Rural weekly fares stay between $0 and $500.
 
 ## Summary
+
+## Recommendations

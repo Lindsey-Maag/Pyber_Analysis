@@ -1,7 +1,7 @@
 # Pyber Ride-Sharing Analysis
 
 ## Overview
-The purpose of this analysis is twofold. First, to create a table of Pyber's ride-sharing data summarizing total rides, drivers and fares based on city type. Second, to create a graph showing the total weekly fares for each city type.
+The purpose of this analysis is twofold. First, to create a table of Pyber's ride-sharing data summarizing total rides, drivers and fares based on city type for the time period of January through April of 2019. Second, to create a graph showing the total weekly fares for each city type for the same date range.
 
 ## Results
 

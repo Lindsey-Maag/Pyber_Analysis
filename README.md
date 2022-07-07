@@ -77,5 +77,13 @@ Graph of Total Weekly Fares based on City Type
 - Urban drivers account for 80.9% of total drivers but only 68.4% of total rides and 62.7% of total fares.
 - Suburban drivers account for 16.5% of total drivers and 26.3% of total rides and 30.5% of total fares.
 - Rural drivers account for only 2.6% of total drivers and 5.3% of total rides and 6.8% of total fares.
+- The average fare per ride is lowest in urban cities and highest in rural cities which is also reflected in the average fare per driver being lowest in urban cities and highest in rural cities. 
 
 ## Recommendations
+
+- Rural drivers gave 1.6 rides per driver, suburban drivers gave 1.2 rides per driver, and urban drivers gave .67 rides per driver.
+-- Pyber’s main focus should be growing patronage. As there are excess drivers marketing could focus on lower wait times than competitors.
+- Rural and suburban cities have 19.1% of drivers and 31.6% of rides and 37.3% of fares. 
+-- Pyber’s secondary focus should be on growing rural and suburban patrons as those city types have a better profit margin than urban cities.
+- There are 2405 urban drivers but only 1625 rides were given. 
+-- Incentivize surplus urban drivers to take on rural and suburban patrons with higher average fares per ride and higher average fares per driver. This will take away excess burden on rural and suburban drivers which should help retention. 

@@ -55,7 +55,7 @@ Percent of Total Rides by City Type
 - Percent of suburban rides: 26.3%
 - Percent of rural rides: 5.3%
 
-Percent of Fares by City Type
+Percent of Total Fares by City Type
 
 ![Percent of Fares by City Type](https://github.com/Lindsey-Maag/Pyber_Analysis/blob/main/Analysis/Fig5.png)
 

@@ -68,10 +68,14 @@ Graph of Total Weekly Fares based on City Type
 
 ![Fare Summary](https://github.com/Lindsey-Maag/Pyber_Analysis/blob/main/Analysis/Pyber_Fare_Summary.png)
 
-Urban weekly fares stay between $1500 and $2500.
-Suburban weekly fares stay between $500 and $1500.
-Rural weekly fares stay between $0 and $500.
+- Urban weekly fares stay between $1500 and $2500.
+- Suburban weekly fares stay between $500 and $1500.
+- Rural weekly fares stay between $0 and $500.
 
 ## Summary
+
+- Urban drivers account for 80.9% of total drivers but only 68.4% of total rides and 62.7% of total fares.
+- Suburban drivers account for 16.5% of total drivers and 26.3% of total rides and 30.5% of total fares.
+- Rural drivers account for only 2.6% of total drivers and 5.3% of total rides and 6.8% of total fares.
 
 ## Recommendations
